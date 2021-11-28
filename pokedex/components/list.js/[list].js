@@ -1,0 +1,2 @@
+//pokemon list, load 12 (4x3) on pageload, then when "load more pokemon" button is pressed, load 12 more everytime the user scrolls down.
+//fetch random is fetch 12 random, and  every new 12 load they will also be random

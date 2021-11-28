@@ -1,0 +1,1 @@
+//pokemon picture, description, data (height, weight, gender, etc)
