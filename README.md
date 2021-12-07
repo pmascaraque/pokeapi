@@ -1,7 +1,3 @@
 ## Resources
 
-App resembling a pokedex by fetching data from [Pokeapi.co](https://pokeapi.co/), using [ReactJS](https://reactjs.org/).
-
-Pending features and re-design.
-
-Pending next and typescript! 
+Typescript, Next SSR, Node/Express and PokeAPI
